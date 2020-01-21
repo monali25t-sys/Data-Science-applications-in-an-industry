@@ -86,6 +86,10 @@ Games are now designed using machine learning algorithms which improve/upgrade t
 This is the final of the data science applications which seems most exciting in the future. Augmented reality.
 
 Data Science and Virtual Reality do have a relationship, considering a VR headset contains computing knowledge, algorithms and data to provide you with the best viewing experience. A very small step towards this is the high trending game of Pokemon GO. The ability to walk around things and look at Pokemon on walls, streets, things that aren’t really there. The creators of this game used the data from Ingress, the last app from the same company, to choose the locations of the Pokemon and gyms.
+
+However, Data Science makes more sense once VR economy becomes accessible in terms of pricing, and consumer use it often like other apps.
+
+Though, not much has been revealed about them except the prototypes, and neither do we know when they would be available for a common man’s disposal. Let’s see, what amazing data science applications the future holds for us!Though, not much has been revealed about them except the prototypes, and neither do we know when they would be available for a common man’s disposal. Let’s see, what amazing data science applications the future holds for us!
  
 
 

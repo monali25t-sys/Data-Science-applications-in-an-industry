@@ -14,6 +14,11 @@ Through this blog, we bring to you, 10 applications that build upon the concepts
 - Airline Route Planning
 - Gaming
 - Augmented Reality
+- Banking
+- Finance
+- Manufacturing
+- Transport
+- E-Commerce
 # Fraud and Risk Detection
 The earliest applications of data science were in Finance. Companies were fed up of bad debts and losses every year. However, they had a lot of data which use to get collected during the initial paperwork while sanctioning loans. They decided to bring in data scientists in order to rescue them out of losses.
 

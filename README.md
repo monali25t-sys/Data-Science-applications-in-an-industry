@@ -22,4 +22,6 @@ Over the years, banking companies learned to divide and conquer data via custome
 The healthcare sector, especially, receives great benefits from data science applications.
 ## 1. Medical Image Analysis
 Procedures such as detecting tumors, artery stenosis, organ delineation employ various different methods and frameworks like MapReduce to find optimal parameters for tasks like lung texture classification. It applies machine learning methods, support vector machines (SVM), content-based medical image indexing, and wavelet analysis for solid texture classification.
+![https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/healthcare-1-Data-Science-Applications.png](https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/healthcare-1-Data-Science-Applications.png "https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/healthcare-1-Data-Science-Applications.png")
+
 

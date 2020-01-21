@@ -66,6 +66,8 @@ A lot of companies have fervidly used this engine to promote their products in a
 # Advanced Image Recognition
 You upload your image with friends on Facebook and you start getting suggestions to tag your friends. This automatic tag suggestion feature uses face recognition algorithm. 
 
+![https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Image-Recognition-Data-Science-Applications.png](https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Image-Recognition-Data-Science-Applications.png "https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Image-Recognition-Data-Science-Applications.png")
+
 In their latest update, Facebook has outlined the additional progress they’ve made in this area, making specific note of their advances in image recognition accuracy and capacity.
 
  “We've witnessed massive advances in image classification (what is in the image?) as well as object detection (where are the objects?), but this is just the beginning of understanding the most relevant visual content of any image or video. Recently we've been designing techniques that identify and segment each and every object in an image, a key capability that will enable entirely new applications.” 

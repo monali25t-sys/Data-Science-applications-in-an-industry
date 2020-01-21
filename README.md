@@ -25,23 +25,6 @@ Procedures such as detecting tumors, artery stenosis, organ delineation employ v
 
 
 ![https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/healthcare-1-Data-Science-Applications.png](https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/healthcare-1-Data-Science-Applications.png "https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/healthcare-1-Data-Science-Applications.png")
-# Advanced Image Recognition
-You upload your image with friends on Facebook and you start getting suggestions to tag your friends. This automatic tag suggestion feature uses face recognition algorithm. 
-
-In their latest update, Facebook has outlined the additional progress they’ve made in this area, making specific note of their advances in image recognition accuracy and capacity.
-
- “We've witnessed massive advances in image classification (what is in the image?) as well as object detection (where are the objects?), but this is just the beginning of understanding the most relevant visual content of any image or video. Recently we've been designing techniques that identify and segment each and every object in an image, a key capability that will enable entirely new applications.” 
-In addition, Google provides you with the option to search for images by uploading them. It uses image recognition and provides related search results.
-
-# Advanced Image Recognition
-You upload your image with friends on Facebook and you start getting suggestions to tag your friends. This automatic tag suggestion feature uses face recognition algorithm. 
-
-In their latest update, Facebook has outlined the additional progress they’ve made in this area, making specific note of their advances in image recognition accuracy and capacity.
-
- “We've witnessed massive advances in image classification (what is in the image?) as well as object detection (where are the objects?), but this is just the beginning of understanding the most relevant visual content of any image or video. Recently we've been designing techniques that identify and segment each and every object in an image, a key capability that will enable entirely new applications.” 
-In addition, Google provides you with the option to search for images by uploading them. It uses image recognition and provides related search results.
-
-
 
 ## 2. Genetics & Genomics
 Data Science applications also enable an advanced level of treatment personalization through research in genetics and genomics. The goal is to understand the impact of the DNA on our health and find individual biological connections between genetics, diseases, and drug response. Data science techniques allow integration of different kinds of data with genomic data in the disease research, which provides a deeper understanding of genetic issues in reactions to particular drugs and diseases. As soon as we acquire reliable personal genome data, we will achieve a deeper understanding of the human DNA. The advanced genetic risk prediction will be a major step towards more individual care.
@@ -79,5 +62,21 @@ Aren’t we all used to the suggestions about similar products on Amazon? They n
 A lot of companies have fervidly used this engine to promote their products in accordance with user’s interest and relevance of information. Internet giants like Amazon, Twitter, Google Play, Netflix, Linkedin, imdb and many more use this system to improve the user experience. The recommendations are made based on previous search results for a user.
 
 ![https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Website-Recommendations-Data-Science-Applications.png](https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Website-Recommendations-Data-Science-Applications.png "https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Website-Recommendations-Data-Science-Applications.png")
+
+# Advanced Image Recognition
+You upload your image with friends on Facebook and you start getting suggestions to tag your friends. This automatic tag suggestion feature uses face recognition algorithm. 
+
+In their latest update, Facebook has outlined the additional progress they’ve made in this area, making specific note of their advances in image recognition accuracy and capacity.
+
+ “We've witnessed massive advances in image classification (what is in the image?) as well as object detection (where are the objects?), but this is just the beginning of understanding the most relevant visual content of any image or video. Recently we've been designing techniques that identify and segment each and every object in an image, a key capability that will enable entirely new applications.” 
+In addition, Google provides you with the option to search for images by uploading them. It uses image recognition and provides related search results.
+
+Predict flight delay
+- Decide which class of airplanes to buy
+- Whether to directly land at the destination or take a halt in between (For example, A flight can have a direct route from New Delhi to New York. Alternatively, it can also choose to halt in any country.)
+- Effectively drive customer loyalty programs 
+Southwest Airlines, Alaska Airlines are among the top companies who’ve embraced data science to bring changes in their way of working.
+
+You can get a better insight into it by referring to this video by our team, which vividly speaks of all the various fields conquered by Data Science Applications.
 
 

@@ -79,4 +79,13 @@ Southwest Airlines, Alaska Airlines are among the top companies who’ve embrace
 
 You can get a better insight into it by referring to this video by our team, which vividly speaks of all the various fields conquered by Data Science Applications.
 
+# Gaming
+Games are now designed using machine learning algorithms which improve/upgrade themselves as the player moves up to a higher level. In motion gaming also, your opponent (computer) analyzes your previous moves and accordingly shapes up its game. EA Sports, Zynga, Sony, Nintendo, Activision-Blizzard have led gaming experience to the next level using data science.
+
+# Augmented Reality
+This is the final of the data science applications which seems most exciting in the future. Augmented reality.
+
+Data Science and Virtual Reality do have a relationship, considering a VR headset contains computing knowledge, algorithms and data to provide you with the best viewing experience. A very small step towards this is the high trending game of Pokemon GO. The ability to walk around things and look at Pokemon on walls, streets, things that aren’t really there. The creators of this game used the data from Ingress, the last app from the same company, to choose the locations of the Pokemon and gyms.
+ 
+
 

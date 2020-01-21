@@ -71,7 +71,7 @@ In their latest update, Facebook has outlined the additional progress they’ve 
  “We've witnessed massive advances in image classification (what is in the image?) as well as object detection (where are the objects?), but this is just the beginning of understanding the most relevant visual content of any image or video. Recently we've been designing techniques that identify and segment each and every object in an image, a key capability that will enable entirely new applications.” 
 In addition, Google provides you with the option to search for images by uploading them. It uses image recognition and provides related search results.
 
-Predict flight delay
+- Predict flight delay
 - Decide which class of airplanes to buy
 - Whether to directly land at the destination or take a halt in between (For example, A flight can have a direct route from New Delhi to New York. Alternatively, it can also choose to halt in any country.)
 - Effectively drive customer loyalty programs 

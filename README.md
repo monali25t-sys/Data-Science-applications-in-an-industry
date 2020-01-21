@@ -57,4 +57,10 @@ This is the reason why you might see ads of Data Science Training Programs while
 
 ![https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Targeted-Advertisement-Data-Science-Applications.png](https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Targeted-Advertisement-Data-Science-Applications.png "https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Targeted-Advertisement-Data-Science-Applications.png")
 
+# Website Recommendations
+Aren’t we all used to the suggestions about similar products on Amazon? They not only help you find relevant products from billions of products available with them but also adds a lot to the user experience.
+A lot of companies have fervidly used this engine to promote their products in accordance with user’s interest and relevance of information. Internet giants like Amazon, Twitter, Google Play, Netflix, Linkedin, imdb and many more use this system to improve the user experience. The recommendations are made based on previous search results for a user.
+
+![https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Website-Recommendations-Data-Science-Applications.png](https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Website-Recommendations-Data-Science-Applications.png "https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Website-Recommendations-Data-Science-Applications.png")
+
 

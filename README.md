@@ -132,6 +132,7 @@ E-commerce and retail industries have been hugely benefitted by data science. So
 - Usage of predictive analytics for forecasting the goods and services.
 - Data Science is also used for identifying styles of popular products and predicting their trends.
 - With data science, companies are optimizing their pricing structures for their consumers.
+
 Data Science is also being heavily used in collaborative filtering, where it forms the backbone of advanced recommendation system. Using this technique, the e-commerce platforms are able to provide insights to the customers based on their historical purchases and purchases made by people of the same style. These type of hybrid recommendation systems, consisting of both collaborative and content-based filtering are helping the industries to provide better services to their customers.
 
 Also, companies are making use of sentiment analysis to analyze the feedbacks provided by the customers. This makes use of natural language processing to analyze texts and online surveys. Fraud Detection, which is the central role of machine learning in industries is tailored for finding fraud merchants and frauds in wire-transfers.

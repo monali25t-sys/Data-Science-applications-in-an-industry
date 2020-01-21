@@ -39,6 +39,13 @@ The AI-powered mobile apps can provide basic healthcare support, usually as chat
 
 This approach promotes a healthy lifestyle by encouraging patients to make healthy decisions, saves their time waiting in line for an appointment, and allows doctors to focus on more critical cases.
 
+# Internet Search
+Now, this is probably the first thing that strikes your mind when you think Data Science Applications.
+
+When we speak of search, we think ‘Google’. Right? But there are many other search engines like Yahoo, Bing, Ask, AOL, and so on. All these search engines (including Google) make use of data science algorithms to deliver the best result for our searched query in a fraction of seconds. Considering the fact that, Google processes more than 20 petabytes of data every day.
+
+Had there been no data science, Google wouldn’t have been the ‘Google’ we know today.
+
 ![https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Internet-Search-Data-Science-Applications.png](https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Internet-Search-Data-Science-Applications.png "https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Internet-Search-Data-Science-Applications.png")
 
 

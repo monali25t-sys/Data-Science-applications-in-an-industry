@@ -95,5 +95,40 @@ However, Data Science makes more sense once VR economy becomes accessible in ter
 
 Though, not much has been revealed about them except the prototypes, and neither do we know when they would be available for a common man’s disposal. Let’s see, what amazing data science applications the future holds for us!Though, not much has been revealed about them except the prototypes, and neither do we know when they would be available for a common man’s disposal. Let’s see, what amazing data science applications the future holds for us!
  
+ # Banking
+Banking is one of the biggest applications of Data Science. Big Data and Data Science have enabled banks to keep up with the competition. With Data Science, banks can manage their resources efficiently, furthermore, banks can make smarter decisions through fraud detection, management of customer data, risk modeling, real-time predictive analytics, customer segmentation, etc.
+
+Banks also assess the customer lifetime value that allows them to monitor the number of customers that they have. It provides them with several predictions that the business bank will derive through their customers. In case of fraud detection, banks allow the companies to detect frauds that involve a credit card, insurance, and accounting. Banks are also able to analyze investment patterns and cycles of customers and suggest you several offers that suit you accordingly.
+
+Furthermore, banks have the ability to risk modeling through data science through which they can assess their overall performance. With Data Science, banks are able to tailor personalized marketing that suits the needs of their clients. In real-time and predictive analytics, banks use machine learning algorithms to improve their analytics strategy. Furthermore, banks use real-time analytics to understand underlying problems that impede their performance.
+
+# Finance
+Data Science has played a key role in automating various financial tasks. Just like how banks have automated risk analytics, finance industries have also used data science for this task. Financial industries need to automate risk analytics in order to carry out strategic decisions for the company. Using machine learning, they identify, monitor and prioritize the risks. These machine learning algorithms enhance cost efficiency and model sustainability through training on the massively available customer data. Similarly, financial institutions use machine learning for predictive analytics. It allows the companies to predict customer lifetime value and their stock market moves.
+
+Data Science also plays a key role in algorithmic trading. Through rigorous analysis of data, financial institutions are able to make data-driven decisions. It is also playing an important role in making the customer experiences better for the users. Through extensive analysis of client experience and modification of preferences, financial institutions are able to create a personalized relationship with their customers.
+
+This is further boosted by the real-time analytics of customers which increases the personalization. Through various customer sentiment analysis techniques and machine learning algorithms, we can boost the social media interaction, boost their feedback and analyze customer reviews. Also, the additional machine learning techniques like natural language processing and data mining have contributed to the transformation of information for smarter governance that helps to increase the profitability of businesses.
+# Manufacturing
+In the 21st century, Data Scientists are the new factory workers. That means that data scientists have acquired a key position in the manufacturing industries. Data Science is being extensively used in manufacturing industries for optimizing production, reducing costs and boosting the profits. Furthermore, with the addition of technologies like the Internet of Things (IoT), data science has enabled the companies to predict potential problems, monitor systems and analyze the continuous stream of data.
+
+Furthermore, with data science, industries can monitor their energy costs and can also optimize their production hours.
+
+With a thorough analysis of customer reviews, data scientists can help the industries to make better decisions and improve the quality of their products. Another important aspect of data science in industries is Automation. With the help of historical and real-time data, industries are able to develop autonomous systems that are helpful in boosting the production of manufacturing lines. It has taken away the redundant jobs and introduced powerful machines that use machine learning technologies like reinforcement learning.
+# Transport
+Another important application of data science is transport. In the transportation sector, Data Science is actively making its mark in making safer driving environments for the drivers. It is also playing a key role in optimizing vehicle performance and adding greater autonomy to the drivers. Furthermore, in the transport sector, Data Science has actively increased its manifold with the introduction of self-driving cars.
+
+Through extensive analysis of fuel consumption patterns, driver behavior and active vehicle monitoring, data science has created a strong foothold in the transport industry. The self-driving cars the most trending topics in the world today. With the introduction of autonomy to vehicles through reinforcement learning, vehicle manufacturers are able to create intelligent automobiles. Furthermore, industries can create better logistical routes with the help of data science. Using a variety of variables like consumer profile, location, economic indicators, and logistics, vendors can optimize delivery routes and provide a proper allocation of resources.
+
+Also, various transportation companies like Uber is using data science for price optimization and providing better experiences to their customers. Using powerful predictive tools, they accurately predict the price based on parameters like a weather pattern, availability of transport, customers, etc.
+# E-Commerce
+E-commerce and retail industries have been hugely benefitted by data science. Some of the ways in which data science has transformed the e-commerce industries are-
+
+- For identifying a potential customer base, data science is being heavily utilized.
+- Usage of predictive analytics for forecasting the goods and services.
+- Data Science is also used for identifying styles of popular products and predicting their trends.
+- With data science, companies are optimizing their pricing structures for their consumers.
+Data Science is also being heavily used in collaborative filtering, where it forms the backbone of advanced recommendation system. Using this technique, the e-commerce platforms are able to provide insights to the customers based on their historical purchases and purchases made by people of the same style. These type of hybrid recommendation systems, consisting of both collaborative and content-based filtering are helping the industries to provide better services to their customers.
+
+Also, companies are making use of sentiment analysis to analyze the feedbacks provided by the customers. This makes use of natural language processing to analyze texts and online surveys. Fraud Detection, which is the central role of machine learning in industries is tailored for finding fraud merchants and frauds in wire-transfers.
 
 

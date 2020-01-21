@@ -39,4 +39,6 @@ The AI-powered mobile apps can provide basic healthcare support, usually as chat
 
 This approach promotes a healthy lifestyle by encouraging patients to make healthy decisions, saves their time waiting in line for an appointment, and allows doctors to focus on more critical cases.
 
+![https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Internet-Search-Data-Science-Applications.png](https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Internet-Search-Data-Science-Applications.png "https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Internet-Search-Data-Science-Applications.png")
+
 

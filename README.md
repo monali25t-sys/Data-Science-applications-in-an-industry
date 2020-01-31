@@ -56,9 +56,7 @@ Had there been no data science, Google wouldn’t have been the ‘Google’ we 
 # Targeted Advertising
 If you thought Search would have been the biggest of all data science applications, here is a challenger – the entire digital marketing spectrum. Starting from the display banners on various websites to the digital billboards at the airports – almost all of them are decided by using data science algorithms.
 
-This is the reason why digital ads have been able to get a lot higher CTR (Call-Through Rate) than traditional advertisements. They can be targeted based on a user’s past behavior.
-
-This is the reason why you might see ads of Data Science Training Programs while I see an ad of apparels in the same place at the same time.
+This is the reason why digital ads have been able to get a lot higher CTR (Call-Through Rate) than traditional advertisements. They can be targeted based on a user’s past behavior.This is the reason why you might see ads of Data Science Training Programs while I see an ad of apparels in the same place at the same time.
 
 ![https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Targeted-Advertisement-Data-Science-Applications.png](https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Targeted-Advertisement-Data-Science-Applications.png "https://github.com/monali25t-sys/Data-Science-applications-in-an-industry/blob/master/images.md/Targeted-Advertisement-Data-Science-Applications.png")
 
